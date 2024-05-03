@@ -14,7 +14,7 @@
 
 **Back-End Development**:      
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,mysql)](https://skillicons.dev)    
-![](https://dessinstudio.com/assets/images/logos/adobe_campaign.png)
+![](https://dessinstudio.com/assets/images/logos/adobe_campaign_02.png)
 
 **Front-End Development**:      
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap)](https://skillicons.dev)    
@@ -24,6 +24,7 @@
 
 **Learning**:       
   [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)      
+  
 
 ## 🤝🏻 &nbsp;Connect with Me
 
