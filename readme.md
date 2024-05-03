@@ -1,4 +1,4 @@
-### 🛠 &nbsp;Welcome, I'm Dante, JavaScript software developer
+# 🛠 &nbsp;Welcome, I'm Dante, JavaScript software developer
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -12,22 +12,25 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-- **Back-End Development**:      
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,mysql)](https://skillicons.dev)
-- **Front-End Development**:      
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap)](https://skillicons.dev)
+**Back-End Development**:      
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,mysql)](https://skillicons.dev)    
+![](https://dessinstudio.com/assets/images/logos/adobe_campaign.png)
 
-- **Tools**:      
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,npm,wordpress,powershell,ai,ps)](https://skillicons.dev)
-- **Learning**:       
-  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+**Front-End Development**:      
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap)](https://skillicons.dev)    
 
-### 🤝🏻 &nbsp;Connect with Me
+**Tools**:      
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,npm,wordpress,powershell,ai,ps)](https://skillicons.dev)    
+
+**Learning**:       
+  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)      
+
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://dessinstudio.com"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dante-martinez/"><img src="https://img.shields.io/badge/-Dante%20Martinez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dedisainer@gmail.com"><img src="https://img.shields.io/badge/-dedisainer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
