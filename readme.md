@@ -1,4 +1,4 @@
-# 🛠 &nbsp;Welcome, I'm Dante, JavaScript software developer
+# Welcome, I'm Dante, JavaScript software developer
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -14,17 +14,19 @@
 
 **Back-End Development**:      
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,mysql)](https://skillicons.dev)    
-![](https://dessinstudio.com/assets/images/logos/adobe_campaign_02.png)
+![](https://dessinstudio.com/assets/images/logos/adobe_campaign_02.png)    
+
 
 **Front-End Development**:      
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,sass,pug)](https://skillicons.dev)    
 
 **Tools**:      
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,npm,wordpress,powershell,ai,ps)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,npm,wordpress,postman,powershell,heroku,ai,ps)](https://skillicons.dev)    
 
 **Learning**:       
   [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)      
   
+## 🛠 Some projects
 
 ## 🤝🏻 &nbsp;Connect with Me
 
