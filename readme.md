@@ -32,7 +32,7 @@
 [<img src="https://dessinstudio.com/portfolio-imgs/github/02.png">](https://github.com/dantegituser/bank-ticket-app)
 [<img src="https://dessinstudio.com/portfolio-imgs/github/01.png">](https://github.com/dantegituser/console-task-manager)
 [<img src="https://dessinstudio.com/portfolio-imgs/github/05.png">](https://github.com/dantegituser/admin-pro-app)
-[<img src="https://dessinstudio.com/portfolio-imgs/github/06.png">](https://github.com/dantegituser/movie-fan-app)
+[<img src="https://dessinstudio.com/portfolio-imgs/github/03.png">](https://github.com/dantegituser/movie-fan-app)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
